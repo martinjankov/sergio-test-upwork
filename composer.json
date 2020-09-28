@@ -1,0 +1,24 @@
+{
+    "name": "martincv/sergio-upwork-test",
+    "description": "Sergio Upwork Test",
+    "keywords": ["test"],
+    "homepage": "https://www.martincv.com",
+    "type": "project",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "MartinCV",
+            "email": "martin@martincv.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "SergioUpworkTest\\": "inc/"
+        }
+   }
+}
