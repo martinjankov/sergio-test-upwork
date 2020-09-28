@@ -1,6 +1,6 @@
-# WordPress Boilerplate Plugin
+# Sergio Upwork Test
 
-This plugin is a starter boiler plugin to help you start with creating your own WordPress Plugin.
+This is a test plugin
 
 ## How to use it
 
