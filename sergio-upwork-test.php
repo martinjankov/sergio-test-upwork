@@ -54,7 +54,7 @@ final class SergioUpworkTest {
      * @return  void
      */
 	private function includes() {
-		require_once SUT_PLUGIN_DIR . 'vendor/autoload.php';
+		require_once SUT_PLUGIN_DIR . 'inc/core/autoloader.php';
 	}
 
     /**

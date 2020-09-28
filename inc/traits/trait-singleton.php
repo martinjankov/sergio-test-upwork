@@ -1,8 +1,17 @@
 <?php
+/**
+ * @file
+ *
+ * Singleton Trait
+ */
+
 namespace SergioUpworkTest\Traits;
 
+/**
+ * Singleton Trait
+ */
 trait Singleton {
-    /**
+	/**
 	 * Instance of the object
 	 *
 	 * @var \Object
